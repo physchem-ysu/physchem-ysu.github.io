@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="Windows-1251" standalone="no"?>
+<svg  version="1.1" viewbox="0 0 600 570" baseProfile = "full" xmlns = "http://www.w3.org/2000/svg" xmlns:xlink = "http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events">
+<svg  viewbox="0 0 500 500" width="500" height="500" x = "80" y = "20" > ""
+<g id = "meshx2" style="stroke-width:0.3; stroke:gray">
+<line x1="0" y1="500" x2="0" y2="0.00"/>
+<line x1="10" y1="500" x2="10" y2="0.00"/>
+<line x1="20" y1="500" x2="20" y2="0.00"/>
+<line x1="30" y1="500" x2="30" y2="0.00"/>
+<line x1="40" y1="500" x2="40" y2="0.00"/>
+<line x1="50" y1="500" x2="50" y2="0.00"/>
+<line x1="60.00" y1="500" x2="60.00" y2="0.00"/>
+<line x1="70" y1="500" x2="70" y2="0.00"/>
+<line x1="80" y1="500" x2="80" y2="0.00"/>
+<line x1="90" y1="500" x2="90" y2="0.00"/>
+<line x1="100.00" y1="500" x2="100.00" y2="0.00"/>
+<line x1="110.00" y1="500" x2="110.00" y2="0.00"/>
+<line x1="120.00" y1="500" x2="120.00" y2="0.00"/>
+<line x1="130.00" y1="500" x2="130.00" y2="0.00"/>
+<line x1="140.00" y1="500" x2="140.00" y2="0.00"/>
+<line x1="150" y1="500" x2="150" y2="0.00"/>
+<line x1="160" y1="500" x2="160" y2="0.00"/>
+<line x1="170" y1="500" x2="170" y2="0.00"/>
+<line x1="180.00" y1="500" x2="180.00" y2="0.00"/>
+<line x1="190.00" y1="500" x2="190.00" y2="0.00"/>
+<line x1="200.00" y1="500" x2="200.00" y2="0.00"/>
+<line x1="210.00" y1="500" x2="210.00" y2="0.00"/>
+<line x1="220.00" y1="500" x2="220.00" y2="0.00"/>
+<line x1="230.00" y1="500" x2="230.00" y2="0.00"/>
+<line x1="240.00" y1="500" x2="240.00" y2="0.00"/>
+<line x1="250.00" y1="500" x2="250.00" y2="0.00"/>
+<line x1="260.00" y1="500" x2="260.00" y2="0.00"/>
+<line x1="270.00" y1="500" x2="270.00" y2="0.00"/>
+<line x1="280.00" y1="500" x2="280.00" y2="0.00"/>
+<line x1="290.00" y1="500" x2="290.00" y2="0.00"/>
+<line x1="300.00" y1="500" x2="300.00" y2="0.00"/>
+<line x1="310.00" y1="500" x2="310.00" y2="0.00"/>
+<line x1="320.00" y1="500" x2="320.00" y2="0.00"/>
+<line x1="330.00" y1="500" x2="330.00" y2="0.00"/>
+<line x1="340.00" y1="500" x2="340.00" y2="0.00"/>
+<line x1="350.00" y1="500" x2="350.00" y2="0.00"/>
+<line x1="360.00" y1="500" x2="360.00" y2="0.00"/>
+<line x1="370.00" y1="500" x2="370.00" y2="0.00"/>
+<line x1="380.00" y1="500" x2="380.00" y2="0.00"/>
+<line x1="390.00" y1="500" x2="390.00" y2="0.00"/>
+<line x1="400.00" y1="500" x2="400.00" y2="0.00"/>
+<line x1="410.00" y1="500" x2="410.00" y2="0.00"/>
+<line x1="420.00" y1="500" x2="420.00" y2="0.00"/>
+<line x1="430.00" y1="500" x2="430.00" y2="0.00"/>
+<line x1="440.00" y1="500" x2="440.00" y2="0.00"/>
+<line x1="450.00" y1="500" x2="450.00" y2="0.00"/>
+<line x1="460.00" y1="500" x2="460.00" y2="0.00"/>
+<line x1="470.00" y1="500" x2="470.00" y2="0.00"/>
+<line x1="480.00" y1="500" x2="480.00" y2="0.00"/>
+<line x1="490.00" y1="500" x2="490.00" y2="0.00"/>
+</g>
+<g id = "meshx" style="stroke-width:0.5; stroke:gray">
+<line x1="0" y1="500" x2="0" y2="0.00"/>
+<line x1="50" y1="500" x2="50" y2="0.00"/>
+<line x1="100" y1="500" x2="100" y2="0.00"/>
+<line x1="150.00" y1="500" x2="150.00" y2="0.00"/>
+<line x1="200" y1="500" x2="200" y2="0.00"/>
+<line x1="250" y1="500" x2="250" y2="0.00"/>
+<line x1="300" y1="500" x2="300" y2="0.00"/>
+<line x1="350" y1="500" x2="350" y2="0.00"/>
+<line x1="400.00" y1="500" x2="400.00" y2="0.00"/>
+<line x1="450.00" y1="500" x2="450.00" y2="0.00"/>
+<line x1="500.00" y1="500" x2="500.00" y2="0.00"/>
+</g>
+<g id = "meshy2" style="stroke-width:0.3; stroke:gray">
+<line x1="0" y1="492.42" x2="500" y2="492.42"/>
+<line x1="0" y1="484.85" x2="500" y2="484.85"/>
+<line x1="0" y1="477.27" x2="500" y2="477.27"/>
+<line x1="0" y1="469.70" x2="500" y2="469.70"/>
+<line x1="0" y1="462.12" x2="500" y2="462.12"/>
+<line x1="0" y1="454.55" x2="500" y2="454.55"/>
+<line x1="0" y1="446.97" x2="500" y2="446.97"/>
+<line x1="0" y1="439.39" x2="500" y2="439.39"/>
+<line x1="0" y1="431.82" x2="500" y2="431.82"/>
+<line x1="0" y1="424.24" x2="500" y2="424.24"/>
+<line x1="0" y1="416.67" x2="500" y2="416.67"/>
+<line x1="0" y1="409.09" x2="500" y2="409.09"/>
+<line x1="0" y1="401.52" x2="500" y2="401.52"/>
+<line x1="0" y1="393.94" x2="500" y2="393.94"/>
+<line x1="0" y1="386.36" x2="500" y2="386.36"/>
+<line x1="0" y1="378.79" x2="500" y2="378.79"/>
+<line x1="0" y1="371.21" x2="500" y2="371.21"/>
+<line x1="0" y1="363.64" x2="500" y2="363.64"/>
+<line x1="0" y1="356.06" x2="500" y2="356.06"/>
+<line x1="0" y1="348.48" x2="500" y2="348.48"/>
+<line x1="0" y1="340.91" x2="500" y2="340.91"/>
+<line x1="0" y1="333.33" x2="500" y2="333.33"/>
+<line x1="0" y1="325.76" x2="500" y2="325.76"/>
+<line x1="0" y1="318.18" x2="500" y2="318.18"/>
+<line x1="0" y1="310.61" x2="500" y2="310.61"/>
+<line x1="0" y1="303.03" x2="500" y2="303.03"/>
+<line x1="0" y1="295.45" x2="500" y2="295.45"/>
+<line x1="0" y1="287.88" x2="500" y2="287.88"/>
+<line x1="0" y1="280.30" x2="500" y2="280.30"/>
+<line x1="0" y1="272.73" x2="500" y2="272.73"/>
+<line x1="0" y1="265.15" x2="500" y2="265.15"/>
+<line x1="0" y1="257.58" x2="500" y2="257.58"/>
+<line x1="0" y1="250" x2="500" y2="250"/>
+<line x1="0" y1="242.42" x2="500" y2="242.42"/>
+<line x1="0" y1="234.85" x2="500" y2="234.85"/>
+<line x1="0" y1="227.27" x2="500" y2="227.27"/>
+<line x1="0" y1="219.70" x2="500" y2="219.70"/>
+<line x1="0" y1="212.12" x2="500" y2="212.12"/>
+<line x1="0" y1="204.55" x2="500" y2="204.55"/>
+<line x1="0" y1="196.97" x2="500" y2="196.97"/>
+<line x1="0" y1="189.39" x2="500" y2="189.39"/>
+<line x1="0" y1="181.82" x2="500" y2="181.82"/>
+<line x1="0" y1="174.24" x2="500" y2="174.24"/>
+<line x1="0" y1="166.67" x2="500" y2="166.67"/>
+<line x1="0" y1="159.09" x2="500" y2="159.09"/>
+<line x1="0" y1="151.52" x2="500" y2="151.52"/>
+<line x1="0" y1="143.94" x2="500" y2="143.94"/>
+<line x1="0" y1="136.36" x2="500" y2="136.36"/>
+<line x1="0" y1="128.79" x2="500" y2="128.79"/>
+<line x1="0" y1="121.21" x2="500" y2="121.21"/>
+<line x1="0" y1="113.64" x2="500" y2="113.64"/>
+<line x1="0" y1="106.06" x2="500" y2="106.06"/>
+<line x1="0" y1="98.48" x2="500" y2="98.48"/>
+<line x1="0" y1="90.91" x2="500" y2="90.91"/>
+<line x1="0" y1="83.33" x2="500" y2="83.33"/>
+<line x1="0" y1="75.76" x2="500" y2="75.76"/>
+<line x1="0" y1="68.18" x2="500" y2="68.18"/>
+<line x1="0" y1="60.61" x2="500" y2="60.61"/>
+<line x1="0" y1="53.03" x2="500" y2="53.03"/>
+<line x1="0" y1="45.45" x2="500" y2="45.45"/>
+<line x1="0" y1="37.88" x2="500" y2="37.88"/>
+<line x1="0" y1="30.30" x2="500" y2="30.30"/>
+<line x1="0" y1="22.73" x2="500" y2="22.73"/>
+<line x1="0" y1="15.15" x2="500" y2="15.15"/>
+<line x1="0" y1="7.58" x2="500" y2="7.58"/>
+<line x1="0" y1="0.00" x2="500" y2="0.00"/>
+</g>
+<g id = "meshy" style="stroke-width:0.5; stroke:gray">
+<line x1="0" y1="424.24" x2="500" y2="424.24"/>
+<line x1="0" y1="348.48" x2="500" y2="348.48"/>
+<line x1="0" y1="272.73" x2="500" y2="272.73"/>
+<line x1="0" y1="196.97" x2="500" y2="196.97"/>
+<line x1="0" y1="121.21" x2="500" y2="121.21"/>
+<line x1="0" y1="45.45" x2="500" y2="45.45"/>
+</g>
+<g id = "Curves" style="stroke-width:2; stroke:black; fill:none">
+<path d="M0 167.95 C 31.42 192.83, 58.93 221.87, 90 261.36"/>
+<path d="M160 83.33 C 128.57 112.13, 106.87 202.18, 90 261.36"/>
+<path d="M250 11.36 C 219.93 14.43, 193.93 38.87, 160 83.33"/>
+<path d="M250 11.36 C 308.08 21.28, 324.40 106.28, 355 166.67"/>
+<path d="M355 166.67 C 430.62 244.31, 449.28 356.03, 475 465.91"/>
+<path d="M500 326.52 C 483.77 363.15, 479.50 399.64, 475 465.91"/>
+<line x1="0" y1="261.36" x2="166.50" y2="261.36"/>
+<line x1="166.50" y1="500" x2="166.50" y2="83.33"/>
+<line x1="160" y1="83.33" x2="250" y2="83.33"/>
+<line x1="250" y1="500" x2="250" y2="11.36"/>
+<line x1="355" y1="166.67" x2="250" y2="166.67"/>
+<line x1="333" y1="500" x2="333" y2="166.67"/>
+<line x1="333" y1="465.91" x2="500" y2="465.91"/>
+</g>
+<g id = "Elements" style="stroke-width:2; stroke:black; fill:none">
+</g>
+</svg>
+<g id = "Points" style="stroke-width:0; fill:blue">
+<text fill="black" x="85" y="182.95" dy="-0.1em" font-family="Arial" font-style = "italic"  text-anchor="start">a</text>
+<circle cx="580" cy="346.52" r="4"/>
+<text fill="black" x="575" y="341.52" dy="-0.1em" font-family="Arial" font-style = "italic"  text-anchor="end">b</text>
+<text fill="black" x="170" y="286.36" dy="0.8em" font-family="Arial" font-style = "italic"  text-anchor="middle">c</text>
+<text fill="black" x="235" y="98.33" dy="-0.1em" font-family="Arial" font-style = "italic"  text-anchor="end">d</text>
+<circle cx="330" cy="31.36" r="4"/>
+<text fill="black" x="330" y="26.36" dy="-0.1em" font-family="Arial" font-style = "italic"  text-anchor="middle">e</text>
+<circle cx="435" cy="186.67" r="4"/>
+<text fill="black" x="440" y="181.67" dy="-0.1em" font-family="Arial" font-style = "italic"  text-anchor="start">f</text>
+<text fill="black" x="555" y="490.91" dy="0.8em" font-family="Arial" font-style = "italic"  text-anchor="middle">g</text>
+<text fill="black" x="85" y="286.36" dy="0.8em" font-family="Arial" font-style = "italic"  text-anchor="start">h</text>
+<text fill="black" x="251.50" y="281.36" dy="0.4em" font-family="Arial" font-style = "italic"  text-anchor="start">i</text>
+<text fill="black" x="251.50" y="108.33" dy="0.8em" font-family="Arial" font-style = "italic"  text-anchor="start">j</text>
+<text fill="black" x="335" y="103.33" dy="0.4em" font-family="Arial" font-style = "italic"  text-anchor="start">k</text>
+<text fill="black" x="325" y="186.67" dy="0.4em" font-family="Arial" font-style = "italic"  text-anchor="end">l</text>
+<text fill="black" x="413" y="181.67" dy="-0.1em" font-family="Arial" font-style = "italic"  text-anchor="middle">m</text>
+<text fill="black" x="408" y="485.91" dy="0.4em" font-family="Arial" font-style = "italic"  text-anchor="end">n</text>
+<text fill="black" x="585" y="485.91" dy="0.4em" font-family="Arial" font-style = "italic"  text-anchor="start">o</text>
+<circle cx="130" cy="65.45" r="4"/>
+<text fill="black" x="135" y="60.45" dy="-0.1em" font-family="Arial" font-style = "italic"  text-anchor="start">P</text>
+<circle cx="180" cy="444.24" r="4"/>
+<text fill="black" x="185" y="439.24" dy="-0.1em" font-family="Arial" font-style = "italic"  text-anchor="start">R</text>
+<circle cx="200" cy="254.85" r="4"/>
+<text fill="black" x="205" y="249.85" dy="-0.1em" font-family="Arial" font-style = "italic"  text-anchor="start">S</text>
+<circle cx="280" cy="57.49" r="4"/>
+<text fill="black" x="275" y="52.49" dy="-0.1em" font-family="Arial" font-style = "italic"  text-anchor="end">T</text>
+</g>
+<polyline points="80, 20, 80, 520, 580, 520, 580, 20" style="stroke-width:1; stroke:black; fill:none"/>
+<g id = "xlabel" >
+<text fill="black" x="80" y="525" dy="0.8em" font-family="Arial" text-anchor="middle">0</text>
+<text fill="black" x="180" y="525" dy="0.8em" font-family="Arial" text-anchor="middle">20</text>
+<text fill="black" x="280" y="525" dy="0.8em" font-family="Arial" text-anchor="middle">40</text>
+<text fill="black" x="380.00" y="525" dy="0.8em" font-family="Arial" text-anchor="middle">60</text>
+<text fill="black" x="480" y="525" dy="0.8em" font-family="Arial" text-anchor="middle">80</text>
+<text fill="black" x="580" y="525" dy="0.8em" font-family="Arial" text-anchor="middle">100</text>
+</g>
+<g id = "ylabel" >
+<text fill="black" x="75" y="520" dy="0.4em" font-family="Arial" text-anchor="end">500</text>
+<text fill="black" x="75" y="444.24" dy="0.4em" font-family="Arial" text-anchor="end">600</text>
+<text fill="black" x="75" y="368.48" dy="0.4em" font-family="Arial" text-anchor="end">700</text>
+<text fill="black" x="75" y="292.73" dy="0.4em" font-family="Arial" text-anchor="end">800</text>
+<text fill="black" x="75" y="216.97" dy="0.4em" font-family="Arial" text-anchor="end">900</text>
+<text fill="black" x="75" y="141.21" dy="0.4em" font-family="Arial" text-anchor="end">1000</text>
+<text fill="black" x="75" y="65.45" dy="0.4em" font-family="Arial" text-anchor="end">1100</text>
+</g>
+<text fill="black" x="45" y="25.00" dy="0.8em" font-family="Arial" text-anchor="end"><tspan font-style="italic" >T</tspan>, °C</text>
+<text fill="black" x="80" y="520" dy="0.8em" font-family="Arial" text-anchor="start"><tspan dy="2.5em">Ge</tspan></text>
+<text fill="black" x="580" y="520" dy="0.8em" font-family="Arial" text-anchor="end"><tspan dy="2.5em">Ba</tspan></text>
+<text fill="black" x="330" y="520" dy="0.8em" font-family="Arial" text-anchor="middle"><tspan dy="2.5em">Содержание Ba, % мол.</tspan></text>
+</svg>
